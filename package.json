@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "tonybadguy/yelp-fusion"
+    "url": "conttentt3/yelp-fusion"
   },
   "keywords": [
     "yelp",
@@ -18,7 +18,7 @@
     "client",
     "api"
   ],
-  "author": "Tony Liu",
+  "author": "Conttentt",
   "license": "MIT",
   "dependencies": {
     "@tonybadguy/call-me-maybe": "^2.1.1"
